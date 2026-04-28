@@ -1,4 +1,4 @@
-# Estudos de SQL - Curso Udemy
+# Estudos de SQL — Curso Udemy
 
 ## Sobre
 
